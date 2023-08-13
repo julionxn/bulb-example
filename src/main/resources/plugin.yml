@@ -1,0 +1,4 @@
+name: myplugin
+version: '${version}'
+main: net.pulga22.myplugin.Myplugin
+api-version: '1.20'
